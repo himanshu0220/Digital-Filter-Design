@@ -1,4 +1,4 @@
-# Digital-Filter-Design
+# Digital Filter Design
 
 COMPANY NAME : CODTECH IT SOLUTION
 
